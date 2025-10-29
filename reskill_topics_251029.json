@@ -1,11 +1,27 @@
 [
   {
-    "TOPIC": "D000007M",
-    "topic_name": "インフルエンサーに聞く生成AIの活用術"
+    "TOPIC": "D000002K",
+    "topic_name": "ワークスタイル"
   },
   {
-    "TOPIC": "D000007Q",
-    "topic_name": "文系が極める！ 生成AIガチ勢への道"
+    "TOPIC": "D000002I",
+    "topic_name": "セミナー"
+  },
+  {
+    "TOPIC": "D000004O",
+    "topic_name": "セミナー書き起こし記事"
+  },
+  {
+    "TOPIC": "D000002Q",
+    "topic_name": "DX"
+  },
+  {
+    "TOPIC": "D000003J",
+    "topic_name": "あしたのマイキャリア"
+  },
+  {
+    "TOPIC": "D000004K",
+    "topic_name": "職種＆スキルの図鑑"
   },
   {
     "TOPIC": "D000007W",
@@ -16,19 +32,303 @@
     "topic_name": "AI時代を生き抜くということ"
   },
   {
+    "TOPIC": "D000003U",
+    "topic_name": "英語"
+  },
+  {
+    "TOPIC": "D000003R",
+    "topic_name": "ビジネススキル"
+  },
+  {
+    "TOPIC": "D000002T",
+    "topic_name": "デジタルスキル"
+  },
+  {
+    "TOPIC": "D000005Q",
+    "topic_name": "今旬ときめきステーショナリー"
+  },
+  {
+    "TOPIC": "D000006G",
+    "topic_name": "日経リスキリングコンソーシアム"
+  },
+  {
+    "TOPIC": "D000002P",
+    "topic_name": "書籍"
+  },
+  {
+    "TOPIC": "D000004L",
+    "topic_name": "知っておきたいリスキリング"
+  },
+  {
+    "TOPIC": "D000002Z",
+    "topic_name": "ニューススクール"
+  },
+  {
+    "TOPIC": "D000004E",
+    "topic_name": "リスキリング戦略"
+  },
+  {
+    "TOPIC": "D000006B",
+    "topic_name": "ロジカル資料　作成トレーニング"
+  },
+  {
+    "TOPIC": "D000007M",
+    "topic_name": "インフルエンサーに聞く生成AIの活用術"
+  },
+  {
+    "TOPIC": "D000002G",
+    "topic_name": "スキルアップ・学び"
+  },
+  {
+    "TOPIC": "D000004M",
+    "topic_name": "セミナー告知記事"
+  },
+  {
+    "TOPIC": "D000002W",
+    "topic_name": "転職"
+  },
+  {
+    "TOPIC": "D0000060",
+    "topic_name": "最新リスキリングニュース"
+  },
+  {
+    "TOPIC": "D000005P",
+    "topic_name": "人的資本経営を解く!"
+  },
+  {
+    "TOPIC": "D000004F",
+    "topic_name": "スキル&ジョブトレンド"
+  },
+  {
+    "TOPIC": "D000007V",
+    "topic_name": "キャッチアップ！お役立ち資料集"
+  },
+  {
+    "TOPIC": "D0000087",
+    "topic_name": "しあわせ働き方研究所"
+  },
+  {
+    "TOPIC": "D000003D",
+    "topic_name": "私のリーダー論"
+  },
+  {
+    "TOPIC": "D000002F",
+    "topic_name": "人材育成・組織"
+  },
+  {
+    "TOPIC": "D000002X",
+    "topic_name": "マインド"
+  },
+  {
+    "TOPIC": "D000006D",
+    "topic_name": "ちょっとGPT"
+  },
+  {
+    "TOPIC": "D000002H",
+    "topic_name": "キャリア・ジョブ"
+  },
+  {
+    "TOPIC": "D000002V",
+    "topic_name": "兼業副業"
+  },
+  {
+    "TOPIC": "D000006H",
+    "topic_name": "アート思考"
+  },
+  {
+    "TOPIC": "D000006P",
+    "topic_name": "おしえて日経転職版"
+  },
+  {
+    "TOPIC": "D000007Q",
+    "topic_name": "文系が極める！ 生成AIガチ勢への道"
+  },
+  {
+    "TOPIC": "D000007L",
+    "topic_name": "日本をモチベート！渋谷教育学園長が説く学びの極意"
+  },
+  {
+    "TOPIC": "D000003L",
+    "topic_name": "学校のリーダー"
+  },
+  {
+    "TOPIC": "D0000088",
+    "topic_name": "アフター MBA Essentials"
+  },
+  {
+    "TOPIC": "D000004J",
+    "topic_name": "50歳からのリスキリング"
+  },
+  {
+    "TOPIC": "D000002M",
+    "topic_name": "ミドルシニア"
+  },
+  {
+    "TOPIC": "D000002S",
+    "topic_name": "思考力"
+  },
+  {
+    "TOPIC": "D000006F",
+    "topic_name": "デジタル迷子のリスキリング"
+  },
+  {
+    "TOPIC": "D000007S",
+    "topic_name": "人材戦略"
+  },
+  {
+    "TOPIC": "D000004N",
+    "topic_name": "セミナーアーカイブ動画"
+  },
+  {
+    "TOPIC": "D0000046",
+    "topic_name": "ビジネス書・今週の平台"
+  },
+  {
+    "TOPIC": "D000007E",
+    "topic_name": "「ようやく」読んだ！おとなり企業の推しbooks"
+  },
+  {
     "TOPIC": "D000007T",
     "topic_name": "X発！みんなの生成AI活用術"
+  },
+  {
+    "TOPIC": "D0000068",
+    "topic_name": "リスキリングで年収UP"
   },
   {
     "TOPIC": "D000006I",
     "topic_name": "管理職のリスキリング"
   },
   {
+    "TOPIC": "D000006Q",
+    "topic_name": "ちょっとリスキリング"
+  },
+  {
+    "TOPIC": "D0000067",
+    "topic_name": "＠地方×リスキリング"
+  },
+  {
+    "TOPIC": "D000004G",
+    "topic_name": "myリスキリングストーリー"
+  },
+  {
+    "TOPIC": "D0000089",
+    "topic_name": "キャリアに役立つ資格 by Credly"
+  },
+  {
+    "TOPIC": "D000004H",
+    "topic_name": "リスキリングbooks"
+  },
+  {
+    "TOPIC": "D000007X",
+    "topic_name": "アルムナイ　会社と個人・つながり新時代"
+  },
+  {
+    "TOPIC": "D000006C",
+    "topic_name": "私たちのグローバルリスキリング"
+  },
+  {
+    "TOPIC": "D000004I",
+    "topic_name": "リスキリングプレーヤーズ"
+  },
+  {
+    "TOPIC": "D0000064",
+    "topic_name": "日経リスキリングサミット2023"
+  },
+  {
+    "TOPIC": "D000006N",
+    "topic_name": "本気です！無料でそこまで学べて委員会"
+  },
+  {
+    "TOPIC": "D000002R",
+    "topic_name": "コミュニケーション"
+  },
+  {
+    "TOPIC": "D000007D",
+    "topic_name": "日経リスキリングサミット2024"
+  },
+  {
+    "TOPIC": "D000002O",
+    "topic_name": "資格"
+  },
+  {
+    "TOPIC": "D0000061",
+    "topic_name": "グローバル人材を考える"
+  },
+  {
+    "TOPIC": "D000006E",
+    "topic_name": "逆引き！Excel実務ワザ"
+  },
+  {
+    "TOPIC": "D000003T",
+    "topic_name": "ビジネス教養"
+  },
+  {
     "TOPIC": "D000002L",
     "topic_name": "マネジメント"
   },
   {
+    "TOPIC": "D000002U",
+    "topic_name": "語学"
+  },
+  {
+    "TOPIC": "D000007C",
+    "topic_name": "聴くNIKKEIリスキリング"
+  },
+  {
+    "TOPIC": "D000005W",
+    "topic_name": "40代からのリスキリング道場"
+  },
+  {
     "TOPIC": "D000005Y",
     "topic_name": "AI時代のリスキリング"
+  },
+  {
+    "TOPIC": "D000007K",
+    "topic_name": "はじめる習慣"
+  },
+  {
+    "TOPIC": "D000004C",
+    "topic_name": "リスキリングtopics"
+  },
+  {
+    "TOPIC": "D000002Y",
+    "topic_name": "キャリアコラム"
+  },
+  {
+    "TOPIC": "D000002N",
+    "topic_name": "リカレント教育"
+  },
+  {
+    "TOPIC": "D000002J",
+    "topic_name": "人的資本"
+  },
+  {
+    "TOPIC": "D000005Z",
+    "topic_name": "アラフォー・プログラミング日記"
+  },
+  {
+    "TOPIC": "D000007Y",
+    "topic_name": "ニュースに目からウロコ！トキアカップ"
+  },
+  {
+    "TOPIC": "D000006O",
+    "topic_name": "ダイジェスト！NIKKEIリスキリング"
+  },
+  {
+    "TOPIC": "D000005S",
+    "topic_name": "リセットの習慣"
+  },
+  {
+    "TOPIC": "D000005X",
+    "topic_name": "大リスキリング時代の転身　成功と失敗の研究"
+  },
+  {
+    "TOPIC": "D000007U",
+    "topic_name": "データで語る！経営層を動かすプレゼン資料"
+  },
+  {
+    "TOPIC": "D000007J",
+    "topic_name": "大学×リスキリング"
   }
 ]
